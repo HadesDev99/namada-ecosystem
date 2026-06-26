@@ -752,5 +752,51 @@
                 "new_value": "sync_lag"
             }
         ]
+    },
+    {
+        "timestamp": "2026-06-25T23:36:53.541104+00:00Z",
+        "changes": [
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "7060594",
+                "new_value": "7061085"
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_lag"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-26T00:42:35.269654+00:00Z",
+        "changes": [
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "7061085",
+                "new_value": "7061410"
+            }
+        ]
     }
 ]
