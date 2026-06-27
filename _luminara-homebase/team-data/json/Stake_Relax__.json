@@ -1168,5 +1168,19 @@
                 "new_value": "7076998"
             }
         ]
+    },
+    {
+        "timestamp": "2026-06-27T07:59:53.761956+00:00Z",
+        "changes": [
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            }
+        ]
     }
 ]
