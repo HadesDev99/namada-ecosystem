@@ -6704,5 +6704,19 @@
                 "new_value": "sync_ok"
             }
         ]
+    },
+    {
+        "timestamp": "2026-07-16T11:40:50.568131+00:00Z",
+        "changes": [
+            {
+                "team": "papadritta",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.papadritta.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            }
+        ]
     }
 ]
