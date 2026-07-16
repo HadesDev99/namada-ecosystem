@@ -6681,5 +6681,28 @@
                 "new_value": "7253571"
             }
         ]
+    },
+    {
+        "timestamp": "2026-07-16T10:02:52.536009+00:00Z",
+        "changes": [
+            {
+                "team": "papadritta",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.papadritta.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "7298104",
+                "new_value": "7316131"
+            },
+            {
+                "team": "papadritta",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.papadritta.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            }
+        ]
     }
 ]
