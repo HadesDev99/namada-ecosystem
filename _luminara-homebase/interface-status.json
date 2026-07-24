@@ -1,7 +1,7 @@
 {
-    "script_start_time": "2026-07-24T06:26:47.136537+00:00Z",
-    "script_end_time": "2026-07-24T06:39:26.019294+00:00Z",
-    "reference_latest_block_height": "7415323",
+    "script_start_time": "2026-07-24T09:04:09.558095+00:00Z",
+    "script_end_time": "2026-07-24T09:16:02.470415+00:00Z",
+    "reference_latest_block_height": "7416694",
     "housefire_reference_latest_block_height": "4624720",
     "required_versions": {
         "interface": "1.33.0",
@@ -52,7 +52,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7415302",
+                            "latest_block_height": "7416677",
                             "sync_state": "sync_ok"
                         }
                     ]
@@ -80,7 +80,7 @@
                             "status": "up",
                             "version": "4.1.3",
                             "is_up_to_date": false,
-                            "latest_block_height": "7415305",
+                            "latest_block_height": "7416679",
                             "sync_state": "sync_ok"
                         },
                         {
@@ -99,7 +99,7 @@
                             "version": "0.37.15",
                             "is_up_to_date": false,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7415304",
+                            "latest_block_height": "7416679",
                             "sync_state": "sync_ok"
                         }
                     ]
@@ -229,7 +229,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7415323",
+                            "latest_block_height": "7416694",
                             "sync_state": "sync_ok"
                         }
                     ]
