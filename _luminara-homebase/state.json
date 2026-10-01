@@ -1,7 +1,7 @@
 {
-    "script_start_time": "2026-10-01T06:56:32.769053+00:00Z",
-    "script_end_time": "2026-10-01T07:07:21.669352+00:00Z",
-    "reference_latest_block_height": "8122067",
+    "script_start_time": "2026-10-01T14:20:33.959782+00:00Z",
+    "script_end_time": "2026-10-01T14:31:30.480218+00:00Z",
+    "reference_latest_block_height": "8125989",
     "housefire_reference_latest_block_height": "0",
     "required_versions": {
         "interface": "1.33.0",
@@ -52,7 +52,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": true,
                             "namada_version": "201.0.11",
-                            "latest_block_height": "8122051",
+                            "latest_block_height": "8125972",
                             "sync_state": "sync_ok"
                         }
                     ]
@@ -80,7 +80,7 @@
                             "status": "up",
                             "version": "4.1.3",
                             "is_up_to_date": false,
-                            "latest_block_height": "8122052",
+                            "latest_block_height": "8125974",
                             "sync_state": "sync_ok"
                         },
                         {
@@ -99,7 +99,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": true,
                             "namada_version": "201.0.11",
-                            "latest_block_height": "8122053",
+                            "latest_block_height": "8125974",
                             "sync_state": "sync_ok"
                         }
                     ]
@@ -229,7 +229,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": true,
                             "namada_version": "201.0.11",
-                            "latest_block_height": "8122067",
+                            "latest_block_height": "8125989",
                             "sync_state": "sync_ok"
                         }
                     ]
